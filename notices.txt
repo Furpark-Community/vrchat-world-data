@@ -1,0 +1,9 @@
+<size=130%><b>DIGIWB's Planet 에 오신 걸 환영해요!</b></size>
+
+<color=#ffcc66>■ 공지</color>
+· 이 보드는 GitHub 의 notices.txt 를 고치면 바뀌어요.
+· 보드를 누르면 최신 공지를 다시 불러와요.
+
+<color=#ffcc66>■ 이용 안내</color>
+· 영화관과 클럽 홀은 복도 안쪽에 있어요.
+· 거울은 체육 센터, 식당, 라운지에 있어요.

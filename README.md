@@ -6,8 +6,19 @@ GitHub Pages(`main` 브랜치, 루트 폴더)로 공개되며 월드는 아래 �
 
 | 파일 | 주소 | 용도 |
 |---|---|---|
+| `notices.txt` | https://furpark-community.github.io/vrchat-world-data/notices.txt | 입구 홀 공지 보드 |
 | `r18-whitelist.txt` | https://furpark-community.github.io/vrchat-world-data/r18-whitelist.txt | R-18 갤러리 출입 명단 |
 | `tools/r18-hash.html` | https://furpark-community.github.io/vrchat-world-data/tools/r18-hash.html | 명단용 해시 생성기 |
+
+## 공지 고치기
+
+`notices.txt` 내용이 보드에 그대로 표시됩니다. 줄바꿈도 그대로 반영되고, 아래 서식 태그를 쓸 수 있습니다.
+
+- 굵게: `<b>굵게</b>`
+- 색: `<color=#ffcc66>노란색</color>`
+- 크기: `<size=130%>크게</size>`
+
+월드 안에서는 10분마다, 또는 보드를 누르면 새 공지를 불러옵니다. 글이 보드보다 길면 글자가 자동으로 작아지다가, 그래도 넘치면 끝이 `…` 로 잘립니다.
 
 ## R-18 명단에 사람 추가하기
 
